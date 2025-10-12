@@ -7,16 +7,11 @@
 }
 
 body{
-    background-color: antiquewhite;
-}
-
-h1{
-    font-size: 2rem;
-    margin: 0rem 0rem 1rem 0rem;
+    background-color: black;
 }
 
 #result {
-    color:  rgb(39, 41, 40);;
+    color: white;
 }
 
 #calculator{
@@ -31,14 +26,14 @@ h1{
 #content{
     border-radius: 2rem;
     padding: 3rem;
-    background-color: rgb(69, 71, 71);
+    background-color: antiquewhite;
 }
 
 p {
     margin: 0rem 0rem 1rem 0rem;
     border-radius: 1rem;
     padding: 2rem 0rem;
-    background-color: rgb(184, 182, 182);
+    background-color: rgb(39, 41, 40);
 }
 
 .btn {
