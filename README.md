@@ -2,7 +2,7 @@
 
 Projeto de **calculadora web** desenvolvida com **HTML**, **CSS** e **JavaScript puro**, com foco em **simplicidade**, **responsividade** e **boas práticas de desenvolvimento front-end**. O objetivo do projeto é demonstrar o uso de manipulação de DOM, eventos e lógica matemática em uma interface moderna e funcional.
 
-<img width="1068" height="553" alt="Preview da Calculadora" src="coloque-aqui-o-link-da-imagem" />
+<img width="986" height="721" alt="Captura de tela de 2025-10-12 11-00-53" src="https://github.com/user-attachments/assets/f3a0552f-e339-4001-bd2e-1fbb765158dd" />
 
 ## 🧠 Tecnologias Utilizadas
 
